@@ -1,0 +1,24 @@
+.CalculatorBody{ 
+     
+    height: 450px;
+    
+    
+}
+
+.Calcmain{
+    
+    -webkit-font-smoothing: antialiased;
+        padding-left: 30%;
+        padding-right: 30%;
+       
+}
+
+.numbers{
+    padding-right: 200px;
+    padding-bottom: 0px;
+}
+
+.forNumbers{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
